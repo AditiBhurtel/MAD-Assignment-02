@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FOOBAR</string>
+    <string name="hyperlink"><a href="">Sign up </a> </string>
+</resources>
